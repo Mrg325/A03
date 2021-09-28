@@ -46,7 +46,10 @@ Directions for using **Git**
   Viewing project History:
     1. Use the command git log to see the changes made over time to the project
 
-Glossary:
+
+
+
+**Glossary**:
 
   Branch: A part of the project being worked on that is seperate from the main project. Usually will be added later
 
